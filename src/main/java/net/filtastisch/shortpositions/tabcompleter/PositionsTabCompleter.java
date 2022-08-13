@@ -17,3 +17,4 @@ public class PositionsTabCompleter implements TabCompleter {
         return new ArrayList<>();
     }
 }
+

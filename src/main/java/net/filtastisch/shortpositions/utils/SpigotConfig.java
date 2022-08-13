@@ -120,7 +120,6 @@ public class SpigotConfig {
         return plugin;
     }
 
-
     //getter
 
     public void setLocation(String path, Location loc) {

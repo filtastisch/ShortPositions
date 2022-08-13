@@ -49,7 +49,6 @@ public class Position {
     }
 
     public static String getFancyPositionList() {
-
         StringBuilder sb = new StringBuilder();
         if (!all.isEmpty()) {
             sb.append(ShortPositions.getPlugin().getAvailablePositions());

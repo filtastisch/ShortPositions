@@ -101,4 +101,5 @@ public final class ShortPositions extends JavaPlugin {
     public String getAvailablePositions() {
         return availablePositions.replace('&', '§');
     }
+
 }

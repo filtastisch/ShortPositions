@@ -49,7 +49,6 @@ public class PositionsCommand implements CommandExecutor {
                 }
             }
         }
-
         return false;
     }
 }
