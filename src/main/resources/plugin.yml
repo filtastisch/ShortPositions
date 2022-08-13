@@ -1,0 +1,6 @@
+name: ShortPositions
+version: '${project.version}'
+main: net.filtastisch.shortpositions.ShortPositions
+commands:
+  position:
+    aliases: [pos, shortposition]
